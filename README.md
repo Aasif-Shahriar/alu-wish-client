@@ -1,12 +1,37 @@
-# React + Vite
+# 🥔 AluWish – Send A Potato, Spread the Mystery!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AluWish is a playful and quirky single-page e-commerce website where users can **anonymously send a potato with a custom message** to anyone in Bangladesh or South Asia. It's the perfect mix of prank, gift, and surprise — think fun, mysterious, and a little cheeky!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🎁 Send real potatoes as anonymous gifts
+- ✏️ Add a handwritten or printed custom message
+- 🙈 Option to stay anonymous
+- 🛍️ Simple pricing tiers (Basic, Premium, Deluxe)
+- 📱 Responsive single-page layout with smooth scrolling
+- 🎨 Built with React + Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧾 How It Works
+
+1. **Choose a Potato Plan** – Select Basic, Premium, or Deluxe
+2. **Write Your Message** – Funny, heartfelt, or mysterious
+3. **Send Anonymously** – We'll take care of shipping your spud in secret!
+
+---
+
+## 💡 Tech Stack
+
+- **Frontend:** React (Vite) + Tailwind CSS
+- **Routing & Scroll:** `react-scroll`
+- **Component-based design:** Hero, Pricing, FAQ, etc.
+- **Deployment-ready**
+
+---
+
+## 📂 Folder Structure
+
+#Live-link: https://alu-wish.netlify.app/
