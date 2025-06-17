@@ -1,0 +1,44 @@
+[
+  {
+    "id": "basic",
+    "name": "Basic Alu",
+    "tagline": "Just a potato with your message",
+    "price": 199,
+    "features": [
+      "One premium potato",
+      "Custom message card",
+      "Anonymous delivery",
+      "2-4 day shipping"
+    ],
+    "popular": false
+  },
+  {
+    "id": "premium",
+    "name": "Premium Alu",
+    "tagline": "Most Popular — fancy it up!",
+    "price": 349,
+    "features": [
+      "Extra large potato 🥔✨",
+      "Handwritten message (max 300 characters)",
+      "Decorative wrapping",
+      "Express delivery",
+      "Tracking included"
+    ],
+    "popular": true
+  },
+  {
+    "id": "deluxe",
+    "name": "Deluxe Alu",
+    "tagline": "Over-the-top mystery for max drama",
+    "price": 599,
+    "features": [
+      "Giant potato",
+      "Custom printed card with your message",
+      "Potato in a gift box",
+      "Mystery scent added 🤫",
+      "Premium anonymous delivery",
+      "Fast shipping (1–2 days)"
+    ],
+    "popular": false
+  }
+]
