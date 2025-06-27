@@ -61,7 +61,8 @@ const Pricing = ({ prices }) => {
                         : ""
                     }`}
                   >
-                    Send {plan.name}
+                    <a href="https://wa.me/message/VVVYSIQ6OO3JL1" target="_blank">Send {plan.name}</a>
+                    
                   </button>
                 </div>
               </div>

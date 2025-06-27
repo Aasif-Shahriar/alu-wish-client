@@ -18,7 +18,7 @@ const Ready = () => {
                     px-6 bg-white text-accent rounded-full hover:bg-gray-200 cursor-pointer transition-all duration-300"
           >
             <FaRocket />
-            <a href="https://wa.me/message/VVVYSIQ6OO3JL1">
+            <a href="https://wa.me/message/VVVYSIQ6OO3JL1" target="_blank">
               Send Your First Alu
             </a>
           </button>

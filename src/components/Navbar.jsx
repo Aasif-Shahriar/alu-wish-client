@@ -50,7 +50,7 @@ const Navbar = () => {
         </div>
         <div className="navbar-end">
           <button className="bg-primary text-base-100 font-semibold py-2 px-3 rounded-full cursor-pointer hover:bg-amber-950 transition-all duration-300">
-            <a href="https://wa.me/message/VVVYSIQ6OO3JL1">Send Alu Now</a>
+            <a href="https://wa.me/message/VVVYSIQ6OO3JL1" target="_blank">Send Alu Now</a>
           </button>
         </div>
       </div>

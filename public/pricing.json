@@ -3,42 +3,46 @@
     "id": "basic",
     "name": "Basic Alu",
     "tagline": "Just a potato with your message",
-    "price": 199,
+    "price": 99,
     "features": [
-      "One premium potato",
-      "Custom message card",
+      "Free Delivery 🚚",
+      "One premium alu 🥔",
+      "Custom message card 💌",
       "Anonymous delivery",
       "2-4 day shipping"
     ],
     "popular": false
   },
   {
-    "id": "premium",
-    "name": "Premium Alu",
-    "tagline": "Most Popular — fancy it up!",
-    "price": 349,
+    "id": "deluxe",
+    "name": "Deluxe Alu",
+    "tagline": "Over-the-top mystery for max drama",
+    "price": 299,
     "features": [
-      "Extra large potato 🥔✨",
-      "Handwritten message (max 300 characters)",
-      "Decorative wrapping",
-      "Express delivery",
-      "Tracking included"
+      "Free Delivery 🚚",
+      "Giant potato 🥔",
+      "Custom printed card with message 💌",
+      "Funky sunglasses 😎",
+      "Chocolates of your choice 🍫",
+      "Key ring ",
+      "Fast shipping (1-2 days)"
     ],
     "popular": true
   },
   {
-    "id": "deluxe",
-    "name": "Deluxe Alu",
-    "tagline": "Over-the-top mystery for max drama",
-    "price": 599,
+    "id": "premium",
+    "name": "Premium Alu",
+    "tagline": "Most Popular — fancy it up!",
+    "price": 199,
     "features": [
-      "Giant potato",
-      "Custom printed card with your message",
-      "Potato in a gift box",
-      "Mystery scent added 🤫",
-      "Premium anonymous delivery",
-      "Fast shipping (1–2 days)"
+      "Free Delivery 🚚",
+      "One extra large potato 🥔",
+      "Customize message card 💌",
+      "Chocolates 🍫",
+      "Key Ring",
+      "2-4 day shipping"
     ],
     "popular": false
   }
+  
 ]
