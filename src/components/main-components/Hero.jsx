@@ -23,7 +23,9 @@ const Hero = () => {
              px-6 bg-primary text-base-100 rounded-full hover:bg-amber-950 cursor-pointer transition-all duration-300"
             >
               <FaTelegramPlane />
-              Send Anonymous Alu
+              <a href="https://wa.me/message/VVVYSIQ6OO3JL1">
+                Send Anonymous Alu
+              </a>
             </button>
             <div>
               <dialog id="my_modal_4" className="modal">
