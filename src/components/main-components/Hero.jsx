@@ -4,7 +4,6 @@ import heroImg from "../../assets/images/potato-logo.png";
 import video1 from "../../assets/videos/video1.mp4";
 
 const Hero = () => {
-
   return (
     <div className="bg-gradient-to-br from-orange-100 to-yellow-100 min-h-screen pt-5">
       <div className="max-w-6xl mx-auto px-4">
@@ -51,7 +50,7 @@ const Hero = () => {
               </button>
             </div>
           </div>
-          <div>
+          <div data-aos="fade-up">
             <img
               src={heroImg}
               alt="potato_logo"
