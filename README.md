@@ -47,5 +47,18 @@ netlify.toml
 package.json
 README.md
 
-🚀 Live Demo
-https://alu-wish.netlify.app/
+
+---
+
+### Why these changes?
+
+- Added **Installation and Running Locally** instructions (very important for repo visitors)  
+- Added a **Folder Structure** snippet for clarity  
+- Provided a clickable **Live Demo** link  
+- Suggested a **Contribution** and **License** section for professionalism  
+- Small wording and formatting tweaks to improve readability and clarity
+
+---
+
+If you want, I can help you prepare similar README templates for your other repos! Would you like that?
+
