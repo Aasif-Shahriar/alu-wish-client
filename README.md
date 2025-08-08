@@ -53,13 +53,4 @@ README.md
 
 ```
 ---
-### Why these changes?
 
-```
-- Added **Installation and Running Locally** instructions (very important for repo visitors)  
-- Added a **Folder Structure** snippet for clarity  
-- Provided a clickable **Live Demo** link  
-- Suggested a **Contribution** and **License** section for professionalism  
-- Small wording and formatting tweaks to improve readability and clarity
-
-```
