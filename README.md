@@ -32,6 +32,10 @@ AluWish is a playful and quirky single-page e-commerce website where users can *
 
 ---
 
+#Live-link: https://alu-wish.netlify.app/
+
+---
+
 ## 📂 Folder Structure
 
 ```plaintext
@@ -47,4 +51,4 @@ netlify.toml
 package.json
 README.md
 
-#Live-link: https://alu-wish.netlify.app/
+
