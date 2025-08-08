@@ -17,22 +17,24 @@ AluWish is a playful and quirky single-page e-commerce website where users can *
 
 ## 🧾 How It Works
 
-1. **Choose a Potato Plan** – Select Basic, Premium, or Deluxe
-2. **Write Your Message** – Funny, heartfelt, or mysterious
+1. **Choose a Potato Plan** – Select Basic, Premium, or Deluxe  
+2. **Write Your Message** – Funny, heartfelt, or mysterious  
 3. **Send Anonymously** – We'll take care of shipping your spud in secret!
 
 ---
 
 ## 💡 Tech Stack
 
-- **Frontend:** React (Vite) + Tailwind CSS
-- **Routing & Scroll:** react-scroll
-- **Component-based design:** Hero, Pricing, FAQ, etc.
+- **Frontend:** React (Vite) + Tailwind CSS  
+- **Routing & Scroll:** react-scroll  
+- **Component-based design:** Hero, Pricing, FAQ, etc.  
 - **Deployment-ready**
 
 ---
 
-#Live-link: https://alu-wish.netlify.app/
+## 🚀 Live Demo
+
+[https://alu-wish.netlify.app/](https://alu-wish.netlify.app/)
 
 ---
 
@@ -50,19 +52,3 @@ AluWish is a playful and quirky single-page e-commerce website where users can *
 netlify.toml
 package.json
 README.md
-
-```
----
-
-📦 Installation and Running Locally
-Clone the repo
-git clone https://github.com/yourusername/alu-wish.git
-
-Navigate into the directory
-cd alu-wish
-
-Install dependencies
-npm install
-
-Start the development server
-npm run dev
