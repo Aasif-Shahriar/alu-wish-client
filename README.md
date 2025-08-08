@@ -54,3 +54,15 @@ README.md
 ```
 ---
 
+📦 Installation and Running Locally
+Clone the repo
+git clone https://github.com/yourusername/alu-wish.git
+
+Navigate into the directory
+cd alu-wish
+
+Install dependencies
+npm install
+
+Start the development server
+npm run dev
