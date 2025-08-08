@@ -11,54 +11,27 @@ AluWish is a playful and quirky single-page e-commerce website where users can *
 - 🙈 Option to stay anonymous
 - 🛍️ Simple pricing tiers (Basic, Premium, Deluxe)
 - 📱 Responsive single-page layout with smooth scrolling
-- 🎨 Built with React and Tailwind CSS
+- 🎨 Built with React + Tailwind CSS
 
 ---
 
-## 💻 How It Works
+## 🧾 How It Works
 
 1. **Choose a Potato Plan** – Select Basic, Premium, or Deluxe
 2. **Write Your Message** – Funny, heartfelt, or mysterious
-3. **Send Anonymously** – We ship your spud in secret!
+3. **Send Anonymously** – We'll take care of shipping your spud in secret!
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 Tech Stack
 
-- **Frontend:** React (Vite) + Tailwind CSS  
-- **Routing & Scroll:** react-scroll  
-- **Component-based Design:** Hero, Pricing, FAQ, etc.  
-- **Deployment:** Netlify
+- **Frontend:** React (Vite) + Tailwind CSS
+- **Routing & Scroll:** react-scroll
+- **Component-based design:** Hero, Pricing, FAQ, etc.
+- **Deployment-ready**
 
 ---
 
 ## 📂 Folder Structure
 
-```plaintext
-/src
-  /components
-  /assets
-  /pages
-  App.jsx
-  main.jsx
-/public
-  index.html
-netlify.toml
-package.json
-README.md
-
-
----
-
-### Why these changes?
-
-- Added **Installation and Running Locally** instructions (very important for repo visitors)  
-- Added a **Folder Structure** snippet for clarity  
-- Provided a clickable **Live Demo** link  
-- Suggested a **Contribution** and **License** section for professionalism  
-- Small wording and formatting tweaks to improve readability and clarity
-
----
-
-If you want, I can help you prepare similar README templates for your other repos! Would you like that?
-
+#Live-link: https://alu-wish.netlify.app/
