@@ -46,3 +46,6 @@ AluWish is a playful and quirky single-page e-commerce website where users can *
 netlify.toml
 package.json
 README.md
+
+🚀 Live Demo
+https://alu-wish.netlify.app/
